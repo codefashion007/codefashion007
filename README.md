@@ -10,12 +10,10 @@
 ![trophy](https://github-profile-trophy.vercel.app/?username=codefashion007)
 
 - 👋 Hi, I’m @codefashion007
-- 👀 I’m interested in 体育运动，当然，现在也喜欢上了编程和ml方面。
+- 👀 I’m interested in sports.Of course!I like python and machine learning now!
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on everyone who want to join me
-- 📫 How to reach me 19379292168
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 📫 My email is 3396363298@qq.com
 
 <!---
 codefashion007/codefashion007 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
